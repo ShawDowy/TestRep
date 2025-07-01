@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug my_app",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:\\cpp_projects\\build\\Debug\\my_app.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:\\cpp_projects",
+            "environment": [],
+            "preLaunchTask": "Build with CMake (Debug)",
+            "console": "externalTerminal"
+        }
+    ]
+}

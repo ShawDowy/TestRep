@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "my_app.dir\\Debug\\main.obj",
+            "outputs": [
+                "C:\\cpp_projects\\build\\my_app.dir\\Debug\\vc143.pdb",
+                "my_app.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
